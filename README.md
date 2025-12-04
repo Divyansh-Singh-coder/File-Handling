@@ -32,5 +32,5 @@ File handling is very useful in practical applications. It allows programs to ma
 
 Overall, file handling makes C programs more powerful and useful. It is an essential skill for any programmer who wants to create real-world applications. Learning file handling also prepares students for larger projects where data storage and retrieval are needed.
 
-#OUTPUT IMAGES:- 
+#OUTPUT IMAGES:- <img width="1913" height="1025" alt="Image" src="https://github.com/user-attachments/assets/837ba414-3682-4982-8d48-db1c25d0edf4" />
 
