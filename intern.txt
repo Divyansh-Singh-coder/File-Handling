@@ -1,0 +1,2 @@
+Hello! This is initial content.
+This is appended content.
