@@ -1,10 +1,17 @@
 # File-Handling
+
 *COMPANY: CODETECH IT SOLUTIONS
+
 *NAME: DIVYANSH
+
 *INTERN ID: CT04DR1854
+
 *DOMAIN: C PROGRAMMING
+
 *DURATION: 4 WEEKS
+
 *MENTOR: NEELA SANTOSH
+
 *ABOUT TASK 1:
 
 File handling in C is a way to store data permanently on a computer. Normally, when we run a program, the data is stored in memory (RAM). When the program ends, all the data is lost. Files allow us to save data on the hard drive so that it can be used later. This makes programs more useful for real-world applications.
